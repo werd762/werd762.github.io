@@ -48,7 +48,7 @@
 
 
 <!--AD CASH-->
-<script type="text/javascript" data-adel="atag" src="https://acdcdn.com/script/atg.js" czid="es8co0pl"></script>            
+<script type="text/javascript" data-adel="atag" src="//acdcdn.com/script/atg.js" czid="es8co0pl"></script>            
 <!--AD CASH-->
 
 
@@ -206,7 +206,7 @@ body {
 
 
 <div class="topnav">
-  <a class="active" href="index.html#home">JB-Apps.me</a>
+  <a class="active" href="#home">JB-Apps.me</a>
   <!--<a href="https://jb-apps.me/FixRevoke">Fix Revoke</a>-->
 <!--<a href="https://jb-apps.me/ipaStore">ipa library</a>-->
 </div>
@@ -338,12 +338,12 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/unc0ver.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/unc0ver.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Unc0ver | v7.0.0</div>
 <div class="item-title-row">
 <div class="item-after">
-<a href="Links/Unc0ver.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/Unc0ver.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 <br>
 
 
@@ -358,13 +358,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Taurine.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Taurine.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Taurine | v1.1.1</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/Taurine.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/Taurine.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 </div>
 </div>
@@ -377,13 +377,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/OdysseyJB.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/OdysseyJB.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">OdysseyJB | v1.4.1</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/OdysseyJB.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/OdysseyJB.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 
@@ -398,13 +398,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/AppInstaller.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/AppInstaller.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">App Installer | v1.0.4.0</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/AppInstaller.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/AppInstaller.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -418,13 +418,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/FastRespring12.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/FastRespring12.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">FastRespring | v1.2</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/FastRespring12.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/FastRespring12.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -438,13 +438,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/RootlessJB4.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/RootlessJB4.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">RootlessJB4 | RC2.1</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/RootlessJB4.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/RootlessJB4.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 
@@ -459,13 +459,13 @@ for (i = 0; i < close.length; i++) {
     <li>
     <div class="item-content">
     <div class="item-media">
-    <img class="app-icon" src="Images/PlankFilza.png"></div>
+    <img class="app-icon" src="https://jb-apps.me/Images/PlankFilza.png"></div>
     <div class="item-inner">
         <div class="item-title" style="color: #fff;">PlankFilza | v3.8</div>
     <div class="item-title-row">
 
     <div class="item-after">
-    <a href="Links/PlankFilza.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+    <a href="/Links/PlankFilza.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 
@@ -480,13 +480,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/ChimeraJB.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/ChimeraJB.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Chimera | v1.6.4</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/ChimeraJB.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/ChimeraJB.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 
@@ -501,13 +501,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/ChimeraJB.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/ChimeraJB.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;"> Chimera_oldv | v1.6.4</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/ChimeraJB_oldv.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/ChimeraJB_oldv.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -521,12 +521,12 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Electra11.3.1.jpeg"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Electra11.3.1.jpeg"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Electra | v1.3.2</div>
 <div class="item-title-row">
 <div class="item-after">
-<a href="Links/ElectraJB.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/ElectraJB.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -540,13 +540,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Th0r.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Th0r.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Th0r | v2.9.6</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/Th0r.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/Th0r.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -560,13 +560,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Th0r.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Th0r.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Th0r3 | v1.0.5</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/Th0r3.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/Th0r3.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -580,13 +580,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Th0r4.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Th0r4.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Th0r4 | v1.3.5</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/Th0r4.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/Th0r4.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>i
@@ -600,13 +600,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Th0r14_lol.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Th0r14_lol.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Th0r14 | v4.0.1</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/Th0r14.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/Th0r14.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -620,13 +620,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Electra11.3.1.jpeg"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Electra11.3.1.jpeg"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">JB Remover | v5.7</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/JBRemover.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/JBRemover.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -640,13 +640,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/rollectra11.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/rollectra11.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Rollectra11 | v1.0.2</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/rollectra11.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/rollectra11.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -660,13 +660,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Houdini.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Houdini.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Houdini | v3.1</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/Houdini.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/Houdini.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -680,13 +680,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/DoubleHelix.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/DoubleHelix.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">DoubleH3lix | v8.0</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/DoubleH3lix.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/DoubleH3lix.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -700,13 +700,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/383.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/383.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">g0blin | v2.0</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/g0blin.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/g0blin.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -720,13 +720,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Meridian.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Meridian.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Meridian | v1.0</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/Meridian.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/Meridian.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -740,13 +740,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Saigon.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Saigon.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">Saigon | v3.0</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/Saigon.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/Saigon.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 </div>
 </div>
@@ -759,13 +759,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Yalu102-icon.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Yalu102-icon.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">yalu102 | v7.0</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/Yalu102.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/Yalu102.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -779,13 +779,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/Yalu102-icon.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Yalu102-icon.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">yalu102E1 | v7.0</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/yaluE1.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/yaluE1.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -799,13 +799,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/317.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/317.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">H3lix | RC6</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/H3lix.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/H3lix.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -819,13 +819,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/PhoenixJB.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/PhoenixJB.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">PhoenixJB | v5.0</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/PhoenixJB.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/PhoenixJB.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -839,13 +839,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/EtasonJB.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/EtasonJB.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">EtasonJB | v1.0</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/EtasonJB.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/EtasonJB.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>
@@ -859,13 +859,13 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="Images/327.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/327.png"></div>
 <div class="item-inner">
     <div class="item-title" style="color: #fff;">pangu | v1.1</div>
 <div class="item-title-row">
 
 <div class="item-after">
-<a href="Links/pangu.php.html"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="/Links/pangu.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
 
 
 </div>

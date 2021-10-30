@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-abkaabi.com	TRUE	/	FALSE	1999999999	ci_session	a%3A8%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22a5492b281ed8bae5f80186b1dbee57a4%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2237.238.230.2%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F4.5+%28compatible%3B+HTTrack+3.0x%3B+Windows+98%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1631909901%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3Bs%3A9%3A%22site_lang%22%3Bs%3A6%3A%22arabic%22%3Bs%3A5%3A%22order%22%3Bs%3A4%3A%22desc%22%3Bs%3A7%3A%22message%22%3Bs%3A28%3A%22%D9%84%D8%A7+%D9%8A%D9%88%D8%AC%D8%AF+%D9%85%D9%88%D8%B6%D9%88%D8%B9%D8%A7%D8%AA%22%3B%7D6852ca1a27c94000955b0f26ee9ab495005a036a
-
