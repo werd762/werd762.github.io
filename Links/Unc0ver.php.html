@@ -21,8 +21,8 @@ text-decoration: none;
 </head>
 <body>
 
-<a style ='text-decoration: none; pointer-events:none' href="itms-services://?action=download-manifest&url=https://file.jb-apps.me/plist/Unc0ver_k.plist">
-			<button class="btn" style="width:100%">Please wait <span id="displaySeconds"></span> </button>
+<a style ='text-decoration: none; pointer-events:none' href="itms-services://?action=download-manifest&url=https://werd762.github.io/plist/drama.plist">
+			<button class="btn" style="width:100%">انتظر رجاء <span id="displaySeconds"></span> </button>
 		</a></body>
 </html>
 
@@ -45,7 +45,7 @@ text-decoration: none;
 		function timer() {
 			// Show the number of remaining seconds on the web page.
 			var output = document.getElementById("displaySeconds");
-			output.innerHTML = count + ' seconds';
+			output.innerHTML = count + ' ثواني';
 
 			// Decrease the remaining number of seconds by one.
 			count--;
@@ -54,8 +54,8 @@ text-decoration: none;
 			if (count < 0) { // If the counter has reached zero...
 				// Stop the counter.
 				clearInterval(counter);
-				document.querySelectorAll('.btn')[0].innerText = 'SKIP THIS AD';
-				document.querySelectorAll('.btn')[0].style.backgroundColor = '#4f7d59';
+				document.querySelectorAll('.btn')[0].innerText = 'اضغط للتحميل';
+				document.querySelectorAll('.btn')[0].style.backgroundColor = '#808080';
 				document.querySelectorAll('.btn')[0].style.color = '#000000';
 				document.querySelectorAll('.btn')[0].style.pointerEvents = 'auto';
 				// Start the download.
